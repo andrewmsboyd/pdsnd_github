@@ -13,5 +13,7 @@ Various functionality of the Python script was required by the project rubric an
 The main Python script is `bikeshare.py`. Three CSV data files are also included for use by the Python script.
 
 ### Credits
+I'm hugely thankful to the friends I made in various programming-related Discord communities. As I'm fairly new to the programming world, I got very stuck a few times, and these kind dev folk helped me see my follies and understand proper solutions.
 
-
+* [Python Discord](https://discord.gg/8NWhsvT)
+* [Programming Discussions Discord](http://invite.progdisc.club/) 
