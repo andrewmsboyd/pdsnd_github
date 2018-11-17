@@ -210,7 +210,7 @@ def user_stats(df):
     print('%'*40) 
 
 
-# Originally forgot to write a function that displays raw data to the user.
+# Function that displays raw data from the selected city (df) 5 rows at a time.
 def print_data(df):
     """Prints lines of raw data at the request of the user (input)
 
