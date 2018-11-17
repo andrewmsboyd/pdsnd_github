@@ -216,7 +216,6 @@ def print_data(df):
 
     Args: dataframe/datafile as defined in earlier function
     
-    Returns: null -- just prints out the requested data
     """
 
     print("\nData number crunching complete! The program can now display raw data samples upon request.\n")
