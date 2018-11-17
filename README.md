@@ -1,5 +1,5 @@
 ### Date created
-Projects and files were created on 11.16.18.
+Projects and files were created on November 16th, 2018.
 
 ### Exploring Bikeshare Data With Python and Pandas
 
